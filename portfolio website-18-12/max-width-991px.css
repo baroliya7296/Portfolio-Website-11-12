@@ -1,0 +1,6 @@
+@media (min-width:576px) {
+    .home-img img{
+        height: 300px;
+        width: 300px;
+    }
+}
